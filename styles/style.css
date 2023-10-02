@@ -205,10 +205,20 @@ article h4 {
 
 .name {
     font-size: 15px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
 #name {
     font-size: 15px;
     padding: 0;
+    color: #FFF;
+    text-decoration: underline;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
+.nameDiv{
+    display: flex;
+    justify-content: center;
+}
